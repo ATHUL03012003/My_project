@@ -1,3 +1,3 @@
-# image_cropperapp
+# Eye Doc
 
 A new Flutter project.
